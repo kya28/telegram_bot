@@ -1,0 +1,3 @@
+API_KEY = '6157942574:AAG36zQlbye-VmizzZrwUgBPPcoJeHnGkNQ'
+WORDS_API_URL_RANDOM = 'http://127.0.0.1:8000/random'
+WORDS_API_URL_NEXT = 'http://127.0.0.1:8000/next'
